@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intent(ANKO)</string>
+    <string name="btnAmarillo">Amarillo</string>
+    <string name="btnRojo">Rojo</string>
+</resources>
